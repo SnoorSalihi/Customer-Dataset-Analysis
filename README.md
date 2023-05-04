@@ -1,5 +1,5 @@
 # Customer-Dataset-Analysis
-- This is a group project on Customer Dataset 
+- A group project on Customer Dataset
 - The dataset is used from Kaggle
 - To create the visualizations the Dataset is used called CarSales, which shows Costumers annual income, credit score and employment type.
 - The data is in a form of CSV file 
